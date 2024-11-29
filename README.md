@@ -1,2 +1,2 @@
-# First_Data_Analysis_Project
+# Hotel_Booking_Data_Analysis_Project
 Hotel Booking Analysis
